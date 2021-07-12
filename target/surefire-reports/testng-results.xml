@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-09T12:07:47 IST" name="Suite" finished-at="2021-07-09T12:07:47 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2021-07-09T12:07:47 IST" name="Test" finished-at="2021-07-09T12:07:47 IST" duration-ms="62">
+      <class name="practising.SeleniumTest">
+        <test-method signature="selenium1()[pri:0, instance:practising.SeleniumTest@161b062a]" started-at="2021-07-09T12:07:47 IST" name="selenium1" finished-at="2021-07-09T12:07:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium1 -->
+        <test-method signature="selenium2()[pri:0, instance:practising.SeleniumTest@161b062a]" started-at="2021-07-09T12:07:47 IST" name="selenium2" finished-at="2021-07-09T12:07:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium2 -->
+      </class> <!-- practising.SeleniumTest -->
+      <class name="practising.RestApiTest">
+        <test-method signature="RestAPi1()[pri:0, instance:practising.RestApiTest@50a7bc6e]" started-at="2021-07-09T12:07:47 IST" name="RestAPi1" finished-at="2021-07-09T12:07:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPi1 -->
+        <test-method signature="RestApi2()[pri:0, instance:practising.RestApiTest@50a7bc6e]" started-at="2021-07-09T12:07:47 IST" name="RestApi2" finished-at="2021-07-09T12:07:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestApi2 -->
+      </class> <!-- practising.RestApiTest -->
+      <class name="practising.AppiumTest">
+        <test-method signature="appium1()[pri:0, instance:practising.AppiumTest@5d740a0f]" started-at="2021-07-09T12:07:47 IST" name="appium1" finished-at="2021-07-09T12:07:47 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium1 -->
+        <test-method signature="appium2()[pri:0, instance:practising.AppiumTest@5d740a0f]" started-at="2021-07-09T12:07:47 IST" name="appium2" finished-at="2021-07-09T12:07:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium2 -->
+      </class> <!-- practising.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
