@@ -7,6 +7,10 @@ public class SeleniumTest {
 	@Test
 	public void  selenium1() {
 		System.out.println("Selenium1");
+		System.out.println("Selenium11");
+		System.out.println("Selenium12");
+		
+		
 	}
 	
 	
